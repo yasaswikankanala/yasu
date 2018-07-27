@@ -18,6 +18,6 @@ class Ideone
 			System.out.println("Alphabet");
 		}
 		else
-		System.out.println("Not");
+		System.out.println("No");
 	}
 }
