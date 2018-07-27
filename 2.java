@@ -15,11 +15,11 @@ class Ideone
 		a=Sc.nextInt();
 		if(a%2==0)
 		{
-			System.out.println("the no is even");
+			System.out.println("Even");
 		}
 		else
 		{
-			System.out.println("the no is odd");
+			System.out.println("Odd");
 		}
 			
 		}
